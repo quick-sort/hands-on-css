@@ -1,0 +1,10 @@
+site_name: 动手学CSS
+theme:
+  name: material
+  features:
+    - navigation.tabs
+nav:
+  - Home: index.md
+  - CSS:
+    - 介绍: web.dev/index.md
+    - 盒子模型: web.dev/box_model.md
