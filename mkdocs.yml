@@ -8,3 +8,4 @@ nav:
   - CSS:
     - 介绍: web.dev/index.md
     - 盒子模型: web.dev/box_model.md
+    - 选择器: web.dev/selectors.md
