@@ -11,3 +11,4 @@ nav:
     - 选择器: web.dev/selectors.md
     - 瀑布: web.dev/cascade.md
     - 特异性: web.dev/specificity.md
+    - 继承: web.dev/inheritance.md
