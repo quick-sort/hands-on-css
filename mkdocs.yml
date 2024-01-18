@@ -9,6 +9,7 @@ nav:
     - 介绍: web.dev/index.md
     - 盒子模型: web.dev/box_model.md
     - 选择器: web.dev/selectors.md
-    - 瀑布: web.dev/cascade.md
+    - 层叠: web.dev/cascade.md
     - 特异性: web.dev/specificity.md
     - 继承: web.dev/inheritance.md
+    - 颜色: web.dev/color.md
